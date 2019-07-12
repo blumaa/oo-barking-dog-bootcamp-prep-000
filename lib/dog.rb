@@ -14,6 +14,7 @@ class Dog
   
   def bark
     @this_dogs_bark
+    puts "Woof!"
   end
 
 #  def initialize(name, bark="woof!")
